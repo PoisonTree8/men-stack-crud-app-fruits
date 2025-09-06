@@ -18,6 +18,9 @@
   "homepage": "https://github.com/PoisonTree8/men-stack-crud-app-fruits#readme",
   "description": "",
   "dependencies": {
-    "express": "^5.1.0"
+    "dotenv": "^17.2.2",
+    "ejs": "^3.1.10",
+    "express": "^5.1.0",
+    "mongoose": "^8.18.0"
   }
 }
